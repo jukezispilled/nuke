@@ -11,6 +11,9 @@ const App = () => {
 
   return (
     <div className="h-screen w-screen flex flex-col justify-center items-center bg-white relative">
+
+      <div className='absolute top-5 text-xs text-center font-semibold text-slate-400'>CA: updating...</div>
+
       {/* Button to play the video */}
       <div className="relative">
         <motion.button 
