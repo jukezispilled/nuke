@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div className="h-screen w-screen flex flex-col justify-center items-center bg-white relative">
 
-      <div className='absolute top-5 text-xs text-center font-semibold text-slate-400'>CA: updating...</div>
+      <div className='absolute top-5 text-xs text-center font-semibold text-slate-400'>CA: BqPfA7kV7j8hF6M42uK4t8rNksP7q48r1PC4Nmyxpump</div>
 
       {/* Button to play the video */}
       <div className="relative">
